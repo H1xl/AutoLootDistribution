@@ -9,10 +9,10 @@ and is picked up automatically.
 **Recommended:** play together with **[JustDropItems by H1xl](https://thunderstore.io/c/riskofrain2/p/H1xl/JustDropItems/)**, so players can drop or pass items to each other.
 
 ## Screenshots
-![Items fly to the player who earned them](https://raw.githubusercontent.com/H1xl/AutoLootDistribution/v1.0.0/docs/images/01-flight.gif)
-![With the Artifact of Command, the command cube flies to the player](https://raw.githubusercontent.com/H1xl/AutoLootDistribution/v1.0.0/docs/images/02-command.gif)
-![A flying command cube shows the icon of its tier](https://raw.githubusercontent.com/H1xl/AutoLootDistribution/v1.0.0/docs/images/02-command.png)
-![Several players: items fly to different players](https://raw.githubusercontent.com/H1xl/AutoLootDistribution/v1.0.0/docs/images/03-multiplayer.png)
+<img src="https://raw.githubusercontent.com/H1xl/AutoLootDistribution/v1.0.0/docs/images/01-flight.gif" alt="Items fly to the player who earned them" width="100%">
+<img src="https://raw.githubusercontent.com/H1xl/AutoLootDistribution/v1.0.0/docs/images/02-command.gif" alt="With the Artifact of Command, the command cube flies to the player" width="100%">
+<img src="https://raw.githubusercontent.com/H1xl/AutoLootDistribution/v1.0.0/docs/images/02-command.png" alt="A flying command cube shows the icon of its tier" width="100%">
+<img src="https://raw.githubusercontent.com/H1xl/AutoLootDistribution/v1.0.0/docs/images/03-multiplayer.png" alt="Several players: items fly to different players" width="100%">
 
 ## Features
 - **Items fly to the player who earned them**: from monster kills, chests, shrines, printers, scrappers, the Wandering
