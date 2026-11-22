@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\shared\Common.props" />
+  <PropertyGroup>
+    <AssemblyName>AutoLootDistribution</AssemblyName>
+    <RootNamespace>AutoLootDistribution</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="UnityEngine.ParticleSystemModule"><HintPath>$(Managed)\UnityEngine.ParticleSystemModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="RiskOfOptions"><HintPath>$(RefPlugins)\Rune580-Risk_Of_Options\RiskOfOptions\RiskOfOptions.dll</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="$(SharedDir)Core\Log.cs" Link="Shared\Log.cs" />
+    <Compile Include="$(SharedDir)Core\HookUtil.cs" Link="Shared\HookUtil.cs" />
+    <Compile Include="$(SharedDir)Core\GameMember.cs" Link="Shared\GameMember.cs" />
+    <Compile Include="$(SharedDir)SharedGameMembers.cs" Link="Shared\SharedGameMembers.cs" />
+    <Compile Include="$(SharedDir)Compat\RooHelper.cs" Link="Shared\RooHelper.cs" />
+    <Compile Include="$(SharedDir)Orbs\ItemFlight.cs" Link="Shared\ItemFlight.cs" />
+  </ItemGroup>
+</Project>

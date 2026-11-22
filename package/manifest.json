@@ -1,0 +1,9 @@
+{
+  "name": "AutoLootDistribution",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/H1xl/AutoLootDistribution",
+  "description": "Automatic item pickup for multiplayer: items from Sacrifice kills, chests, shrines, printers and more fly to the player who earned them. Every source has its own setting. Host-side: only the host needs the mod.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2122"
+  ]
+}
